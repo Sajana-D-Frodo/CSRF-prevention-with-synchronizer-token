@@ -7,10 +7,7 @@ package com.mycompany.csrfsynct;
 
 import java.util.HashMap;
 
-/**
- *
- * @author KALINDU
- */
+
 public class Map {
 	public static HashMap<String, String> hashMap = new HashMap<String, String>();
 	
