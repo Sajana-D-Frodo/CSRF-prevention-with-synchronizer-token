@@ -14,10 +14,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author KALINDU
- */
+
 @WebServlet(name = "Submit", urlPatterns = {"/submit"})
 public class Submit extends HttpServlet {
     
