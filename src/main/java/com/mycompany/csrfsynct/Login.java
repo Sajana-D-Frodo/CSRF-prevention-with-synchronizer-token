@@ -17,10 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.xml.bind.DatatypeConverter;
 
-/**
- *
- * @author KALINDU
- */
+
 @WebServlet(name = "Login", urlPatterns = {"/login"})
 public class Login extends HttpServlet {
     
