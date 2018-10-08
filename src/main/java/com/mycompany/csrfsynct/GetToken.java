@@ -17,11 +17,6 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
-/**
- *
- * @author KALINDU
- */
-
 @WebServlet(name = "Token", urlPatterns = { "/token" })
 public class GetToken extends HttpServlet {
 
