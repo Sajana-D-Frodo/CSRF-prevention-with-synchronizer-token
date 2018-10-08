@@ -1,8 +1,3 @@
-<%-- 
-    Document   : form
-    Created on : Sep 30, 2018, 8:07:59 AM
-    Author     : KALINDU
---%>
 
 <!DOCTYPE html>
 <html>
